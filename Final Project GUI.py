@@ -57,6 +57,9 @@ class productivityTracker:
                        "Knowledge Check"]
             
         elif study_index == 3:
+            options = ["Mixed Topic Study"]
+
+        elif study_index == 4:
             options = []
 
         for item in options:
